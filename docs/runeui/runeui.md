@@ -6,7 +6,7 @@ RuneAudio features **RuneUI**, a unique integrated and easy to use interface.
 
 ##### A web interface
 
-Built in PHP, JavaScript and CSS. Due to its nature it’s **platform independent**, being accessible from every modern web browser, on every operating system.
+Built in PHP, JavaScript and CSS. Due to its nature it’s **platform independent** and is accessible from every modern web browser, on every operating system.
 
 ##### A MPD client
 
@@ -20,7 +20,7 @@ It is **designed to be responsive**, and it displays correctly, scaling itself f
 
 ## Main sections
 
-The following are the main sections of the RuneUI, reachable through the navigation menu at the top right corner of the screen:
+The following are the main sections of the RuneUIreachable through the navigation menu at the top right corner of the screen:
 
 1. [Playback](playback.md)
 2. [Sources](sources.md)
@@ -31,6 +31,6 @@ The following are the main sections of the RuneUI, reachable through the navigat
 
 ## Historical background
 
-For some historical background about the RuneUI and its authors, you can read this post in the forum:
+For a historical background about the RuneUI and its authors, read this:
 
 [[ About RuneAudio and Volumio ]](http://www.runeaudio.com/forum/about-runeaudio-and-volumio-t90.html)
